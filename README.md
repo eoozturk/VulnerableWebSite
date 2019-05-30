@@ -60,3 +60,16 @@ Log dosyalarını okuma, işletim sisteminde yeni bir kullanıcı oluşturup yet
 linux sistemlerde bazı web uygulamaları çeşitli fonksiyonları yerine getirebilmek için komutlara ihtiyaç duyuyor.
 İşte tam olarak bu tip sistemlerdeki güvenlik eksikliği Command injection zafiyetine sebebiyet veriyor.
 Command Injection saldırısı büyük oranda yetersiz input denetleme mekanizması nedeniyle gerçekleşmektedir.
+
+
+<p align="center"> <img src="images/img1.png" width="500" height="450" border="10"/> </p>
+
+<p align="center"><img src="images/img2.png" width="500" height="450" border="10"/> </p> 
+
+<p align="center"><img src="images/img3.png" width="500" height="450" border="10"/> </p> 
+
+<p align="center"><img src="images/img4.png" width="500" height="450" border="10"/> </p> 
+
+<p align="center"><img src="images/img5.png" width="500" height="450" border="10"/> </p> 
+
+<p align="center"><img src="images/img6.png" width="500" height="450" border="10"/> </p> 
